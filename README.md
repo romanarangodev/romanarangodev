@@ -34,10 +34,11 @@ roman-arango-33723028b
 <td width="50%">
 <h3 align="center">Hybrid app for pet localization through QR codes</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/29N6Xci.jpeg" width="400" alt="pet qr"></a> 
+<a href="https://github.com/romanarangodev/PetQRApp" target="_blank"><img src="https://i.imgur.com/29N6Xci.jpeg" width="400" alt="pet qr"></a> 
+  
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/romanarangodev/PetQRApp" target="_blank">
+<img src="https://img.shields.io/badge/DESCRIPCIÓN-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
 </p>
