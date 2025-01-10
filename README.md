@@ -51,11 +51,11 @@ roman-arango-33723028b
 <td width="50%">
 <h3 align="center">Hybrid App for ecommerce: using native API</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/f9vzXe3.jpeg" width="300" alt="Hybrid app ecommerce"></a>
+<a href="https://github.com/romanarangodev/ecommercemarcadeagua" target="_blank"><img src="https://i.imgur.com/f9vzXe3.jpeg" width="300" alt="Hybrid app ecommerce"></a> 
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/romanarangodev/ecommercemarcadeagua" target="_blank">
+<img src="https://img.shields.io/badge/DESCRIPCIÓN-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
 </p>
