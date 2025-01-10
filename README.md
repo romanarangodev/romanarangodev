@@ -119,7 +119,7 @@ roman-arango-33723028b
 
 </p>
 <p>Aplicación web para la gestion del backend de un sitio de ecommerce dedicado a la venta de cocinas integrales italianas</p>
-<p>En esta aplicación se hace uso del patrón de arquitectura MVC, Bootstrap y la adaptación de un tema web existente</p>
+<p>En esta aplicación se hace uso del patrón de arquitectura MVC, Bootstrap y la adaptación del tema web Admin LTE</p>
 </div>
                                                                                       
 </td>
