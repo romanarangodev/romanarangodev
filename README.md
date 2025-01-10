@@ -41,7 +41,8 @@ roman-arango-33723028b
 </a>
 
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Aplicación android para la localización de mascotas extraviadas a través del escaneo de un codigo QR generado a partir de los datos capturados mediante la App</p>
+<p>En esta aplicación se hace uso de algunos recursos del celular o móvil como son: la cámara y el gps</p>
 </div>
                                                                                       
 </td>
@@ -57,7 +58,8 @@ roman-arango-33723028b
 </a>
 
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+<p>Aplicación android para la venta de papeles japoneses y nepaleses</p>
+<p>En esta aplicación se hace uso de algunos recursos como son: la API de Paypal</p>
 </div>  
 </tr>
 </table>     
@@ -76,7 +78,8 @@ roman-arango-33723028b
 </a>
 
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<p>Aplicación android para la venta de productos comestibles</p>
+<p>En esta aplicación se hace uso de algunos recursos como son: la API de Woocommerce</p>
 </div>
                                                                                       
 </td>       
@@ -92,7 +95,8 @@ roman-arango-33723028b
 </a>
 
 </p>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+<p>Aplicación android para el manejo de tareas personalizadas</p>
+<p>En esta aplicación se hace uso de Eloquent, un ORM que viene por defecto en Laravel</p>
 </div>
                                                                                       
 </td>  
@@ -113,7 +117,8 @@ roman-arango-33723028b
 </a>
 
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Aplicación web para la gestion del backend de un sitio de ecommerce dedicado a la venta de cocinas integrales italianas</p>
+<p>En esta aplicación se hace uso del patrón de arquitectura MVC, Bootstrap y la adaptación de un tema web existente</p>
 </div>
                                                                                       
 </td>
@@ -129,7 +134,8 @@ roman-arango-33723028b
 </a>
 
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+<p>Aplicación web para la venta de cursos y libros</p>
+<p>En esta aplicación se hace uso del patrón de arquitectura MVC, el API de Paypal, Bootstrap y la adaptación del tema porto</p>
 </div>  
 </tr>
 </table>     
