@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.itisacv.com.mx](https://www.itisacv.com.mx)
 
-- 💬 Ask me about **Database Design, RestFull API, PHP, Ionic**
+- 💬 Ask me about **Database Design, RestFull API, PHP, Angular, Ionic**
 
 - 📫 How to reach me **roman.arango@hotmail.com**
 
@@ -75,7 +75,7 @@ roman-arango-33723028b
 <a href="https://github.com/romanarangodev/ecommerce2" target="_blank"><img src="https://i.imgur.com/h0OAsl9.png" width="300" alt="Curso intermedio Android"></a> 
 <p>
 <a href="https://github.com/romanarangodev/ecommerce2" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/DESCRIPCIÓN-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
 </p>
@@ -92,7 +92,7 @@ roman-arango-33723028b
 <a href="https://github.com/romanarangodev/taskapp" target="_blank"><img src="https://i.imgur.com/LmApYHS.jpeg" width="300" alt="Curso Kotlin Multiplatform"></a> 
 <p>
 <a href="https://github.com/romanarangodev/taskapp" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/DESCRIPCIÓN-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
 </p>
@@ -114,7 +114,7 @@ roman-arango-33723028b
 <a href="https://github.com/romanarangodev/web-backend" target="_blank"><img src="https://i.imgur.com/dtAZklZ.jpeg" width="400" alt="pet qr"></a> 
 <p>
 <a href="https://github.com/romanarangodev/web-backend" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/DESCRIPCIÓN-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
 </p>
@@ -131,7 +131,7 @@ roman-arango-33723028b
 <br>
 <p>
 <a href="https://github.com/romanarangodev/mvc-web-site" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/DESCRIPCIÓN-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
 </p>
