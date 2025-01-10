@@ -125,7 +125,7 @@ roman-arango-33723028b
 </td>
 
 <td width="50%">
-<h3 align="center">Ecommerce Web Site: MVC</h3>
+<h3 align="center">Ecommerce Web Site Demo: MVC</h3>
 <div align="center">                                       
 <a href="https://github.com/romanarangodev/mvc-web-site" target="_blank"><img src="https://i.imgur.com/hIZxNRG.png" width="300" alt="Hybrid app ecommerce"></a>
 <br>
