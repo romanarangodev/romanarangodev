@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Roman</h1>
+<h1 align="center">Hi 👋, I'm Román</h1>
 <h3 align="center">A passionate web and hybrid app developer from México</h3>
+
+<div align="center">
+  <img src="https://i.imgur.com/YdB4vMn.png" width="100%" alt="banner"
+</div>
+<br>
 
 - 🔭 I’m currently working on **Angular, Sockets, Pusher, Laravel**
 
@@ -23,7 +28,7 @@ roman-arango-33723028b
 
 <br>
 
-## Recents projects
+## Recent projects
 <table>
 <tr>
 <td width="50%">
@@ -130,11 +135,4 @@ roman-arango-33723028b
 </table>     
 
 
-### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
