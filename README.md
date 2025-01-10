@@ -111,9 +111,9 @@ roman-arango-33723028b
 <td width="50%">
 <h3 align="center">Web Backend for Ecommerce: MVC</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/dtAZklZ.jpeg" width="400" alt="pet qr"></a> 
+<a href="https://github.com/romanarangodev/web-backend" target="_blank"><img src="https://i.imgur.com/dtAZklZ.jpeg" width="400" alt="pet qr"></a> 
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="https://github.com/romanarangodev/web-backend" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
