@@ -109,7 +109,7 @@ roman-arango-33723028b
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Web Backend: MVC</h3>
+<h3 align="center">Web Backend for Ecommerce: MVC</h3>
 <div align="center">
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/dtAZklZ.jpeg" width="400" alt="pet qr"></a> 
 <p>
