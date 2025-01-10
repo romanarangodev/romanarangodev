@@ -89,9 +89,9 @@ roman-arango-33723028b
 <h3 align="center">Hybrid Task App: using Laravel API with Eloquent</h3>
   
 <div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/LmApYHS.jpeg" width="300" alt="Curso Kotlin Multiplatform"></a> 
+<a href="https://github.com/romanarangodev/taskapp" target="_blank"><img src="https://i.imgur.com/LmApYHS.jpeg" width="300" alt="Curso Kotlin Multiplatform"></a> 
 <p>
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
+<a href="https://github.com/romanarangodev/taskapp" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
