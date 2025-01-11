@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React, angular sockets and pusher**
 
-- 👨‍💻 All of my projects are available at [https://www.itisacv.com.mx](https://www.itisacv.com.mx)
+- 👨‍💻 Some of my projects are available at [https://www.itisacv.com.mx](https://www.itisacv.com.mx)
 
 - 💬 Ask me about **Database Design, RestFull API, PHP, Angular, Ionic**
 
