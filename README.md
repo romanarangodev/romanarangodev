@@ -96,7 +96,7 @@ roman-arango-33723028b
 </a>
 
 </p>
-<p>Aplicación android para el manejo de tareas personalizadas</p>
+<p>Aplicación android y sitio web para el manejo de tareas personalizadas</p>
 <p>En esta aplicación se hace uso de Eloquent, un ORM que viene por defecto en Laravel</p>
 </div>
                                                                                       
