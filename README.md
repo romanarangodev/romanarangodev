@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Angular, Sockets, Pusher, Laravel**
 
-- 🌱 I’m currently learning **React, angular sockets and pusher**
+- 🌱 I’m currently learning **React, angular sockets, pusher, microservices, Spring Boot**
 
 - 👨‍💻 Some of my projects are available at [https://www.itisacv.com.mx](https://www.itisacv.com.mx)
 
