@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Román</h1>
-<h3 align="center">Un desarrollador de aplicaciones web y aplicaciones móviles híbridas con más de 15 años de experiencia</h3>
+<h3 align="center">Ingeniero de software, especializado en el desarrollo de aplicaciones web y aplicaciones móviles híbridas con más de 15 años de experiencia</h3>
 
 <div align="center">
   <img src="https://i.imgur.com/YdB4vMn.png" width="100%" alt="banner"
