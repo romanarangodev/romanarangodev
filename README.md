@@ -32,18 +32,18 @@ roman-arango-33723028b
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Aplicación web para manejo de eventos en tiempo real</h3>
+<h3 align="center">Menú interactivo en tiempo real</h3>
 <div align="center">
-<a href="https://github.com/romanarangodev/PetQRApp" target="_blank"><img src="https://i.imgur.com/29N6Xci.jpeg" width="300" alt="pet qr"></a> 
+<a href="https://github.com/romanarangodev/RealTimeApp" target="_blank"><img src="https://i.imgur.com/29N6Xci.jpeg" width="300" alt="pet qr"></a> 
   
 <p>
-<a href="https://github.com/romanarangodev/PetQRApp" target="_blank">
+<a href="https://github.com/romanarangodev/RealTimeApp" target="_blank">
 <img src="https://img.shields.io/badge/DESCRIPCIÓN-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
 </p>
-<p>Aplicación android para la localización de mascotas extraviadas a través del escaneo de un codigo QR generado a partir de los datos capturados mediante la App</p>
-<p>En esta aplicación se hace uso de algunos recursos del celular o móvil como son: la cámara y el GPS</p>
+<p>Aplicación web para el manejo de eventos en tiempo real</p>
+<p>En esta aplicación se hace uso de Ionic,Laravel,Angular,Pusher</p>
 </div>
                                                                                       
 </td>
