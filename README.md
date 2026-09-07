@@ -10,7 +10,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **React, angular sockets, pusher, microservices, Spring Boot**
 
-- 👨‍💻 Algunos de mis proyectos están dsiponibles en [https://www.itisacv.com.mx](https://www.itisacv.com.mx)
+- 👨‍💻 Algunos de mis proyectos están disponibles en [https://www.itisacv.com.mx](https://www.itisacv.com.mx)
 
 - 💬 Preguntame acerca de **Diseño de bases de datos, RestFull API, PHP, Angular, Ionic**
 
