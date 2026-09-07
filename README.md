@@ -43,7 +43,7 @@ roman-arango-33723028b
 
 </p>
 <p>Aplicación web para el manejo de eventos en tiempo real</p>
-<p>En esta aplicación se hace uso de Ionic,Laravel,Angular,Pusher</p>
+<p>En esta aplicación se hace uso de Ionic 8,Laravel 12,Angular 20,Pusher</p>
 </div>
                                                                                       
 </td>
@@ -51,16 +51,16 @@ roman-arango-33723028b
 <td width="50%">
 <h3 align="center">Sitio web corporativo:Editorial del agua</h3>
 <div align="center">                                       
-<a href="https://github.com/romanarangodev/ecommercemarcadeagua" target="_blank"><img src="https://itisacv.com.mx/githubprofile/sitioweb-ea-opt.png" width="300" alt="Hybrid app ecommerce"></a> 
+<a href="https://github.com/romanarangodev/EditorialDelAgua" target="_blank"><img src="https://itisacv.com.mx/githubprofile/sitioweb-ea-opt.png" width="300" alt="Hybrid app ecommerce"></a> 
 <br>
 <p>
-<a href="https://github.com/romanarangodev/ecommercemarcadeagua" target="_blank">
+<a href="https://github.com/romanarangodev/EditorialDelAgua" target="_blank">
 <img src="https://img.shields.io/badge/DESCRIPCIÓN-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
 </p>
-<p>Aplicación android para la venta de papeles japoneses y nepaleses</p>
-<p>En esta aplicación se hace uso de algunos recursos como son: la API de Paypal</p>
+<p>Sitio web corporativo de la empresa Editorial del agua</p>
+<p>En esta aplicación se utilizó: Wordpress </p>
 </div>  
 </tr>
 </table>     
