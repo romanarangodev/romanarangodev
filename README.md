@@ -51,7 +51,7 @@ roman-arango-33723028b
 <td width="50%">
 <h3 align="center">Sitio web corporativo:Editorial del agua</h3>
 <div align="center">                                       
-<a href="https://github.com/romanarangodev/ecommercemarcadeagua" target="_blank"><img src="https://i.imgur.com/f9vzXe3.jpeg" width="300" alt="Hybrid app ecommerce"></a> 
+<a href="https://github.com/romanarangodev/ecommercemarcadeagua" target="_blank"><img src="https://itisacv.com.mx/githubprofile/sitioweb-ea-opt.png" width="300" alt="Hybrid app ecommerce"></a> 
 <br>
 <p>
 <a href="https://github.com/romanarangodev/ecommercemarcadeagua" target="_blank">
