@@ -34,7 +34,7 @@ roman-arango-33723028b
 <td width="50%">
 <h3 align="center">Menú interactivo en tiempo real</h3>
 <div align="center">
-<a href="https://github.com/romanarangodev/RealTimeApp" target="_blank"><img src="https://i.imgur.com/29N6Xci.jpeg" width="300" alt="pet qr"></a> 
+<a href="https://github.com/romanarangodev/RealTimeApp" target="_blank"><img src="https://itisacv.com.mx/githubprofile/menulive-admin.png" width="300" alt="pet qr"></a> 
   
 <p>
 <a href="https://github.com/romanarangodev/RealTimeApp" target="_blank">
